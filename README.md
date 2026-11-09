@@ -49,18 +49,6 @@ It provides an organized view of living expenses, discretionary spending, transp
 - Support better financial awareness through data-driven insights.
 
 
-## How to Use
-
-1. Clone or download this repository.
-2. Open the dashboard file using the relevant visualization software.
-3. Explore expense trends, income patterns, and category-level analysis.
-4. Use the interactive filters to investigate different months and categories.
-
-
-## Author
-
-**Hamna Saeed**
-
 Data Analytics | Financial Analytics | Business Intelligence
 
 ---
